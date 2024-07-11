@@ -9,7 +9,7 @@
 
     <header class="page-header">
         <h2>Cleveland</h2>
-        <img id="main-img" src="/img/Flag_of_Cleveland,_Ohio.svg" alt="picture of the Cleveland flag">
+        <img id="main-img" src="./img/Flag_of_Cleveland,_Ohio.svg" alt="picture of the Cleveland flag">
     </header>
 
     <section class="page-intro">

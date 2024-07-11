@@ -9,7 +9,7 @@
 
     <header class="page-header">
         <h2>Columbus</h2>
-        <img id="main-img" src="/img/Flag_of_Columbus,_Ohio.svg" alt="picture of the Columbus flag">
+        <img id="main-img" src="./img/Flag_of_Columbus,_Ohio.svg" alt="picture of the Columbus flag">
     </header>
 
     <section class="page-intro">
