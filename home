@@ -4,7 +4,7 @@
 <section class="page-content">
     <header class="page-header">
         <h2>Welcome to the Ohio Info Site</h2>
-        <img id="main-img" src="/img/Flag_of_Ohio.svg" alt="picture of ohio flag">
+        <img id="main-img" src="./img/Flag_of_Ohio.svg" alt="picture of ohio flag">
     </header>
 
     <section class="page-info">
