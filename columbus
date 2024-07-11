@@ -1,0 +1,43 @@
+<script>
+    // redirect if the page is loaded directly
+    if (!document.querySelector("#main"))
+        window.location.href = "/#columbus"
+</script>
+<title>Ohio Info Site - Columbus</title>
+
+<section class="page-content">
+
+    <header class="page-header">
+        <h2>Columbus</h2>
+        <img id="main-img" src="/img/Flag_of_Columbus,_Ohio.svg" alt="picture of the Columbus flag">
+    </header>
+
+    <section class="page-intro">
+        <p>
+            Columbus, the capital city of Ohio, is a dynamic and rapidly growing urban center.
+            Incorporated in 1816, it has a population of over 900,000.
+            Known for its diverse economy, Columbus is home to numerous Fortune 500 companies, prestigious universities,
+            and world-class research institutions.
+            The city is celebrated for its vibrant arts scene, culinary diversity, and major league sports teams,
+            including the Columbus Blue Jackets and Columbus Crew SC.
+            Columbus is also known for its beautiful parks, historic neighborhoods, and lively festivals, making it a
+            great place to live, work, and visit.
+        </p>
+    </section>
+
+    <section class="city-facts">
+        <h3>Facts at a Glance</h3>
+        <ul>
+            <li><strong>Population:</strong> Approximately 906,528 (2022)</li>
+            <li><strong>Year of Incorporation:</strong> 1816</li>
+            <li><strong>Region:</strong> Central Ohio</li>
+            <li><strong>Classification:</strong> Urban</li>
+            <li><strong>Average Income Level:</strong>
+                <ul>
+                    <li><strong>Per Capita Income:</strong> $34,529 (55.8% of the state average)</li>
+                    <li><strong>Median Household Income:</strong> $61,305 (99.0% of the state average)</li>
+                </ul>
+            </li>
+        </ul>
+    </section>
+</section>

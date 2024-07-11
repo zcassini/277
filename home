@@ -1,0 +1,50 @@
+<title>Ohio Info Site</title>
+
+
+<section class="page-content">
+    <header class="page-header">
+        <h2>Welcome to the Ohio Info Site</h2>
+        <img id="main-img" src="/img/Flag_of_Ohio.svg" alt="picture of ohio flag">
+    </header>
+
+    <section class="page-info">
+        <p>Ohio is the greatest state in the union.
+            It was admitted to the union in 1803 and has grown to a population of nearly twelve million.
+            The NFL was founded in Ohio and the state has a rich history of sports and culture.
+        </p>
+    </section>
+
+    <section class="page-table">
+        <h3>Ohio Cities</h3>
+        <table>
+            <tr>
+                <th>Name</th>
+                <th>Population</th>
+                <th>Founded</th>
+            </tr>
+            <tr>
+                <td>Cincinnati</td>
+                <td>300,000</td>
+                <td>1788</td>
+            </tr>
+            <tr>
+                <td>Cleveland</td>
+                <td>400,000</td>
+                <td>1796</td>
+            </tr>
+            <tr>
+                <td>Columbus</td>
+                <td>800,000</td>
+                <td>1812</td>
+        </table>
+    </section>
+
+    <section class="page-top-facts">
+        <h3>Top 3 Ohio Facts</h3>
+        <ol>
+            <li>Ohio is the birthplace of 7 US Presidents</li>
+            <li>Ohio is the home of the Rock and Roll Hall of Fame</li>
+            <li>Ohio is the home of the Pro Football Hall of Fame</li>
+        </ol>
+    </section>
+</section>
